@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.js"></script>
+    <style type="text/css">.wrapper{width:650px;margin:0 auto}.page-header h2{margin-top:0}table tr td:last-child a{margin-right:15px}body{font-size:17px;}.actions{min-width:100px;}.wrapper{width: 950px;}</style>    
+
+    <style>
+      /* Set the size of the div element that contains the map */
+      #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+
+       td{
+        width: 20%;
+       }
+       h3{
+        text-align: center;
+       }
+    </style>
+    <script type="text/javascript" src="script.js"></script>
+  </head>
+  <body>
+    <h3>Top five weird deals of the day</h3>
+
+      <div class="wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                   <table class='table table-bordered table-striped text-center'>
+                    <thead>
+                      <tr>
+                        <td>Image</td>
+                        <td>Name</td>
+                        <td>Description</td>
+                        <td>Price</td>
+                        <td>Features</td>
+                      </tr>
+                    </thead>
+                    <tbody id="elements">
+                    </tbody>
+                  </table>
+                   
+                </div>
+
+               
+            </div>        
+        </div>
+    </div>
+      
+    <!--The div element for the map -->
+    <div id="map"></div>
+  
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAj7VJu_vSedKBXQbst5O8FIOb3E-C61TM&callback=initMap">
+    </script>
+  </body>
+</html>
