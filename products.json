@@ -4,7 +4,7 @@
 		"price"			: "$36,000",
 		"description"	: "Who says you have to pay exorbitant broker fees to find the home of your dreams? You can make your dreams of homeownership come true as easily as you'd buy a bottle of dish soap, thanks to this storage-container-turned-house, available for a cool $36K. And before you sign off on a mortgage",
 		"features"		: "features1",
-		"image"			: "/200408803Project3/images/tiny-home.jpg",
+		"image"			: "/200408803_API_JSON_JS/images/tiny-home.jpg",
 		"location"		: {"lat" : "44.4121028" , "lng" : "-79.6771741"}
 	},
 	{
@@ -12,7 +12,7 @@
 		"price"			: "$22.85",
 		"description"	: "Now you can grow your own fungus right at home—and not in between your toes!",
 		"features"		: "feature home mushroom 1",
-		"image"			: "/200408803Project3/images/home-mushroom.jpg",
+		"image"			: "/200408803_API_JSON_JS/images/home-mushroom.jpg",
 		"location"		: {"lat" : "44.3999619" , "lng" : "-79.6964002"}
 	},
 	{
@@ -20,7 +20,7 @@
 		"price"			: "$39.95",
 		"description"	: "Having a dog dry itself off all over your living room post-bath is rarely ideal. Fortunately, there's a bizarre blow-dryer suit out there that can help keep your pup from dripping all over the house.",
 		"features"		: "Panda feature",
-		"image"			: "/200408803Project3/images/dog-dryer.jpg",
+		"image"			: "/200408803_API_JSON_JS/images/dog-dryer.jpg",
 		"location"		: {"lat" : "44.3859784" , "lng" : "-79.7236526"}
 	},
 	{
@@ -28,7 +28,7 @@
 		"price"			: "$38.00",
 		"description"	: "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
 		"features"		: "Panda",
-		"image"			: "/200408803Project3/images/desktop-refrigerator.jpg",
+		"image"			: "/200408803_API_JSON_JS/images/desktop-refrigerator.jpg",
 		"location"		: {"lat" : "44.3984901" , "lng" : "-79.7111631"}
 	},
 	{
