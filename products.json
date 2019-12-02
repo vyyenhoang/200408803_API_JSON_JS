@@ -36,7 +36,7 @@
 		"price"			: "$13.22",
 		"description"	: "If you truly love your pet, you'll do anything for them, or with them—including interpretive dance, according to this book.",
 		"features"		: "features",
-		"image"			: "/200408803Project3/images/dancing-with-cats.jpg",
+		"image"			: "/200408803_API_JSON_JS/images/dancing-with-cats.jpg",
 		"location"		: {"lat" : "44.4016176" , "lng" : "-79.687388"}
 	}
 ]
